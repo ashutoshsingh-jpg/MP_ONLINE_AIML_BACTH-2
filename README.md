@@ -1,4 +1,9 @@
-# Machine Learning & Deep Learning Assignments
+# Machine Learning & Deep Learning Intership Assignments
+**Name:** Ashutosh Singh
+
+**Internship:** MP Online AI & ML Internship
+
+**Batch:** Batch 2
 
 A collection of four end-to-end machine learning and deep learning projects covering image classification, face recognition, medical imaging, and tabular income prediction.
 
@@ -120,3 +125,10 @@ Open any `.ipynb` file in Jupyter Notebook, JupyterLab, or Google Colab and run 
 - All notebooks use `SEED = 42` for full reproducibility.
 - GPU acceleration is detected and configured automatically where available.
 - Model checkpoints (best weights) are saved during training for each deep learning notebook.
+
+## Author
+
+Ashutosh Singh
+
+Prepared as part of the MP Online AI & ML Internship.
+
